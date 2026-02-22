@@ -1,4 +1,4 @@
-﻿# wger
+﻿### wger
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/wger-project/wger/master/wger/core/static/images/logos/logo.png" width="100" height="100" alt="wger logo">
