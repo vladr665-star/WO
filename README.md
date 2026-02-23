@@ -9,7 +9,6 @@
 ![Translation Status](https://hosted.weblate.org/widget/wger/svg-badge.svg)
 </p>
 
-\\
 
 wger (ˈvɛɡɐ) is a free workout and fitness manager.
 
